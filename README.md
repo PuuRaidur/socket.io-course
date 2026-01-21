@@ -58,7 +58,7 @@ socket.join(room)                     // Join room
 
 ### Volatile Events
 ```javascript
-socket.volatile.emit('ping', count)   // Drops if disconnected
+socket.volatile.emit('ping', count)   // Drops if disconnected(at least should)
 ```
 
 ### Keyboard Shortcuts
