@@ -53,7 +53,7 @@ socket.to(room).emit("event", data)   // Specific room
 
 ### Rooms
 ```javascript
-socket.join(room)                     // Join room // Leave room
+socket.join(room)                     // Join room
 ```
 
 ### Volatile Events
