@@ -2,6 +2,8 @@
 
 Real-time bidirectional communication tutorial covering Socket.IO fundamentals.
 
+Youtube link: https://youtu.be/ZKEqqIO7n-k?si=fTHHQQE69l6dqMau
+
 ## Installation
 
 ```bash
